@@ -170,12 +170,8 @@ section {
 }
 
 .section__pic-container {
-  padding-left: 40px;
-  display: flex;
-  height: 40px;
-  width: 400px;
-  margin: auto 0;
-  clip-path: circle(120px);
+ 
+  
 }
 
 .section__text {
