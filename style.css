@@ -218,11 +218,13 @@ section {
 
 /* BUTTONS */
 
-.btn-container {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-}
+  /*
+    .btn-container {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+  */
 
 .btn {
   font-weight: 600;
