@@ -376,15 +376,13 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 70%;
+  width: 80%;
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
   height: 70%;
 }
 
-
-
 .project-title {
-  margin: 3rem;
+  margin: 2rem;
   color: black;
 }
 
